@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "945723254482",
+    "firebase_url": "https://finalprojectunity-31171.firebaseio.com",
+    "project_id": "finalprojectunity-31171",
+    "storage_bucket": "finalprojectunity-31171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945723254482:android:682a7e32f74e0110",
+        "android_client_info": {
+          "package_name": "com.Yaseen.FinalProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945723254482-u37ti537dn78jlso45qh2lj6hd3f1o2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuQdd1my3TICzyLd2C6almRzJjg51i8SM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
