@@ -13,7 +13,7 @@ Tower DomiNation is a game in the vein of Clash of Clans. However, it is mapped 
 
 
 1. Users can create and edit villages.
-2. Ingame economy system and shop. 
+2. In game currency system and shop. 
 2. Users can attack other villages to earn money, however if fail, they will have to pay out some money.
 3. As villages grow they appear bigger on the game map to reflect their strength. 
 4. Real-time location tracking.
@@ -24,16 +24,14 @@ Tower DomiNation is a game in the vein of Clash of Clans. However, it is mapped 
 
 ## Installation
 
-```sh
-git clone https://github.com/Yaseen121/WebProgrammingProjectFinal.git
-cd WebProject
-conda activate ECS639U (conda info --envs)
-python manage.py runserver
+```
+Note that this game was built on Unity3D version 2018.3.6f1
+and may not work correctly on other versions (Make sure you select "Standard Assets", "Android Build Support" and "Vuforia Augmented Reality" when installing Unity packages).
+git clone https://github.com/Yaseen121/FinalYearProject.git
+Open the project in the Unity3D editor.
+Naviagte to the "Assets/Scenes" and open the "Home" scene. 
 ```
 
-## Disclaimer
 
- - For secuirty purposes, details in the settings.py file have been removed, these will need to be replaced to run the web application. This includes the host for the database and the Gmail that the server uses to send notifications. 
- 
 
     
