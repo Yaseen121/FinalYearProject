@@ -30,11 +30,5 @@ python manage.py runserver
 
  - For secuirty purposes, details in the settings.py file have been removed, these will need to be replaced to run the web application. This includes the host for the database and the Gmail that the server uses to send notifications. 
  
- 
-# Group Project Contributors:
- -  [Yaseen Sultan](https://github.com/Yaseen121)
- -  [Aasif Khan](https://github.com/Blazero100)
- -  [Marios Hadjigeorgiou](https://github.com/marios50)
- -  [Maksym Sokolenko](https://github.com/MaksymSok)
- 
+
     
