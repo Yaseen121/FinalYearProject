@@ -5,7 +5,7 @@ A mobile game called Tower DomiNation built with the Unity3D game engine for my 
 ### Overview and Video Demo
 Tower DomiNation is a game in the vein of Clash of Clans. However, it is mapped to real world locations and uses augemented reality in an effort to increase emersion. The main aim of the game is create the largest village. 
 
-![final-year-mobile-project-overview](https://i.imgur.com/ixdWkNI.png)(https://www.youtube.com/watch?v=v5-C9Q-MlwY "Web Project Video")
+[![final-year-mobile-project-overview](https://i.imgur.com/ixdWkNI.png)](https://www.youtube.com/watch?v=v5-C9Q-MlwY "Final Project Video")
 >Clcik the image to see YoutTube Video for demo/walkthrough. 
 
 ### Features
