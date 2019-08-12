@@ -14,12 +14,12 @@ Tower DomiNation is a game in the vein of Clash of Clans. However, it is mapped 
 
 1. Users can create and edit villages.
 2. In game currency system and shop. 
-2. Users can attack other villages to earn money, however if fail, they will have to pay out some money.
-3. As villages grow they appear bigger on the game map to reflect their strength. 
-4. Real-time location tracking.
-5. Daily login bonuses. 
-6. Detailed in game walkthrough.
-7. Augmented Reality Tower Defence view of villages. 
+3. Users can attack other villages to earn money, however if fail, they will have to pay out some money.
+4. As villages grow they appear bigger on the game map to reflect their strength. 
+5. Real-time location tracking.
+6. Daily login bonuses. 
+7. Detailed in game walkthrough.
+8. Augmented Reality Tower Defence view of villages. 
 
 
 ## Installation
