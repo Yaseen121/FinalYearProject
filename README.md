@@ -1,21 +1,26 @@
 # Final Year Project - A Location Based Tower Defence Game with Augemented Reality 
 
-A movile game built with the Unity3D game engine.
+A mobile game called Tower DomiNation built with the Unity3D game engine for my final project. 
 
-### Video Demo and Features
+### Overview and Video Demo
+Tower DomiNation is a game in the vein of Clash of Clans. However, it is mapped to real world locations and uses augemented reality in an effort to increase emersion. The main aim of the game is create the largest village. 
 
-[![django-matching-web-app](http://img.youtube.com/vi/v5-C9Q-MlwY/0.jpg)](https://www.youtube.com/watch?v=v5-C9Q-MlwY "Web Project Video")
->See YoutTube Video for demo. 
+![final-year-mobile-project-overview](https://i.imgur.com/ixdWkNI.png)(https://www.youtube.com/watch?v=v5-C9Q-MlwY "Web Project Video")
+>Clcik the image to see YoutTube Video for demo/walkthrough. 
 
-1. Users	can	create	an	account	on	the	site	and	login.	
-2. The	user’s	profile	consits of their	profile	image,	email,	gender,	date	of	birth,	
-and	a	list	of	hobbies and the number of likes they have received. 
-3. Hobbies list can be edited through the databse (Users can only select existing hobbies).
-4. Users	will	then be presented with	a	list	of	other	users	who	have	the	most	similar	set	of	hobbies, sorted by those who have more similar hobbies to the user.
-5. Users can filter the list by age and gender. 
-6. The web application is built using bootstrap to be responsive. 
-7. Users	are	able	to	“like”	other	users	—	and	users	receive	alerts	or	emails	when	
-someone	likes	them.	
+### Features
+![final-year-mobile-project-features](https://i.imgur.com/Fvo7nu3.png)
+
+
+1. Users can create and edit villages.
+2. Ingame economy system and shop. 
+2. Users can attack other villages to earn money, however if fail, they will have to pay out some money.
+3. As villages grow they appear bigger on the game map to reflect their strength. 
+4. Real-time location tracking.
+5. Daily login bonuses. 
+6. Detailed in game walkthrough.
+7. Augmented Reality Tower Defence view of villages. 
+
 
 ## Installation
 
