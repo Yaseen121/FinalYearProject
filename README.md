@@ -1,4 +1,4 @@
-# Final Year Project - A Location Based Tower Defence Game with Augemented Reality 
+# Final Year Project - A Location Based Tower Defence Game with Augemented Reality (Spring 2019)
 
 A mobile game called Tower DomiNation built with the Unity3D game engine for my final project. 
 
